@@ -1,2 +1,2 @@
-# ut-pager-duty
+# ut-paper-duty
 This Universal Task allows Stonebranch users to notify PagerDuty (Incident management platform) in the event of job Failure or long run of a job or Early finish of a job or any other event in Universal Controller and further PagerDuty can help to aggregate alerts &amp; group it, provides reliable notifications, automatic escalations and on-call scheduling that could help fix support issues quickly.
