@@ -1,4 +1,4 @@
-# ut-paper-duty
+# ut-pager-duty
 <p data-renderer-start-pos="598"><strong data-renderer-mark="true">PagerDuty Integration</strong></p>
 <p data-renderer-start-pos="621">This Universal Task allows Stonebranch users to notify PagerDuty (Incident management platform) in the event of job failure, a long run of a job, Early finish of a job, or any other event in Universal Controller. PagerDuty can help to aggregate alerts &amp; group them, provide reliable notifications, automatic escalations, and on-call scheduling that could help fix support issues quickly.</p>
 <p data-renderer-start-pos="1020">&nbsp;&nbsp;</p>
