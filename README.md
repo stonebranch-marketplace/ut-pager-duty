@@ -1,6 +1,6 @@
 # ut-pager-duty
 <p data-renderer-start-pos="598"><strong data-renderer-mark="true">PagerDuty Integration</strong></p>
-<p data-renderer-start-pos="621">This Universal Task&nbsp;allows&nbsp;Stonebranch&nbsp;users&nbsp;to notify PagerDuty (Incident management platform) in the event of job failure, a long run of a job, Early&nbsp;finish of a job, or&nbsp;any&nbsp;other event&nbsp;in Universal&nbsp;Controller, PagerDuty can help to aggregate alerts &amp; group it, provide reliable notifications, automatic escalations, and on-call scheduling that could help fix support issues quickly.</p>
+<p data-renderer-start-pos="621">This Universal Task allows Stonebranch users to notify PagerDuty (Incident management platform) in the event of job failure, a long run of a job, Early finish of a job, or any other event in Universal Controller. PagerDuty can help to aggregate alerts &amp; group them, provide reliable notifications, automatic escalations, and on-call scheduling that could help fix support issues quickly.</p>
 <p data-renderer-start-pos="1020">&nbsp;&nbsp;</p>
 <p data-renderer-start-pos="1024"><strong data-renderer-mark="true">Key Features:</strong>&nbsp;</p>
 <ul class="ak-ul" data-indent-level="1">
@@ -42,4 +42,6 @@
 </li>
 </ul>
 </li>
-</ul>
+<p>&nbsp;</p>
+Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
+<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+Google+BigQuery">Google BigQuery</a>.&nbsp;</li>
