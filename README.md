@@ -44,4 +44,4 @@
 </li>
 <p>&nbsp;</p>
 Please visit this link to find key features, prerequisites, installation instructions, configuration instructions, and examples of how to use this integration. 
-<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+Google+BigQuery">Google BigQuery</a>.&nbsp;</li>
+<a href="https://docs.stonebranch.com/confluence/display/UC69/UAC+-+PagerDuty">UAC - PagerDuty</a>.&nbsp;</li>
